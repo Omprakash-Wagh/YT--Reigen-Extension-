@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">YT – REIGEN</h1>
- 
 
 <p align="center">
   <strong>🎬 Cinematic Ambient Engine for YouTube</strong>
@@ -151,3 +150,6 @@ YT-Reigen/
 
 ---
 
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
